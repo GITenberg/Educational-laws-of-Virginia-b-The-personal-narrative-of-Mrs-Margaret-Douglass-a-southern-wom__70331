@@ -1,0 +1,28 @@
+_repo: Educational-laws-of-Virginia-b-The-personal-narrative-of-Mrs-Margaret-Douglass-a-southern-wom__70331
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Douglass, Margaret
+    gutenberg_agent_id: '55708'
+    url: http://www.gutenberg.org/2009/agents/55708
+description: ''
+gutenberg_issued: '2023-03-21'
+identifiers:
+  gutenberg: '70331'
+language: en
+pgterms:marc905: 20230122170614douglass
+pgterms:marc906: '1854'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bJohn P. Jewett & Co., $c1854.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Educational laws of Virginia : $b The personal narrative of Mrs. Margaret
+  Douglass, a southern woman, who was imprisoned for one month in the common jail
+  of Norfolk, under the laws of Virginia, for the crime of teaching free colored children
+  to read'
+url: http://www.gutenberg.org/ebooks/70331
